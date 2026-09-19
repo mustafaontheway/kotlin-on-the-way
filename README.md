@@ -2,6 +2,6 @@
 
 * Kotlin & DSA
 
-* Jetpack Compose & Compose Multiplatform & KMM
+* Jetpack Compose & Compose Multiplatform & KMP
 
 * Ktor
