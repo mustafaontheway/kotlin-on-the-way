@@ -4,6 +4,8 @@
 
 * Jetpack Compose & Compose Multiplatform & KMP
 
+* KorGE Engine
+
 * Kotlin Advanced
 
 * Ktor
