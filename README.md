@@ -2,9 +2,9 @@
 
 * Kotlin & DSA
 
-* Jetpack Compose & Compose Multiplatform & KMP
+* Godot Games
 
-* KorGE Engine
+* Jetpack Compose & Compose Multiplatform & KMP
 
 * Kotlin Advanced
 
