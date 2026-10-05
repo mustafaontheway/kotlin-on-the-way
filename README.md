@@ -2,7 +2,7 @@
 
 * Kotlin & DSA
 
-* Korge Engine
+* Canvas Games
 
 * Jetpack Compose & Compose Multiplatform & KMP
 
