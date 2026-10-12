@@ -1,8 +1,6 @@
-# Kotlin
+# Kotlin (Break Time)
 
 * Kotlin & DSA
-
-* Canvas Games
 
 * Jetpack Compose & Compose Multiplatform & KMP
 
