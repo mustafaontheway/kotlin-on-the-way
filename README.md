@@ -1,9 +1,11 @@
 # Kotlin (Break Time)
 
-* Kotlin & DSA
+* Kotlin 
 
 * Jetpack Compose & Compose Multiplatform & KMP
 
 * Kotlin Advanced
 
 * Ktor
+
+* AI Agents
