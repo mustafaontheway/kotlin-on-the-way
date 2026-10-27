@@ -2,7 +2,7 @@
 
 * Kotlin
 
-* LibGDX Kotlin
+* Korge Engine
 
 * Jetpack Compose & Compose Multiplatform & KMP
 
